@@ -1,15 +1,12 @@
-## Welcome to GitHub Pages
+## WHAT IS ARCHITECTURE?
 
-You can use the [editor on GitHub](https://github.com/HanaaGhazzi/HanaaGh/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The question “what is architecture?” is one of the most basic but also one of the most challenging stuff architects ask themselves. It is a philosophical question that repels a complete answer yet incites an intellectual examination. Architect’s answers to this question help outline their designs.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### WHAT IS ARCHITECTURE?
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+is also a question that is particularly important for students who are looking for different perspectives on architecture as they come to form their own definitions.
+```Architecture
+Architecture is a passion, a vocation, a calling — as well as a science and a business. It has been described as a social art and also an artful science. Architecture must be of the highest quality of design. Architecture provides, in the words of Marcus Vitruvius, the great Roman architect and historian, “firmness, commodity and delight.
 
 # Header 1
 ## Header 2
